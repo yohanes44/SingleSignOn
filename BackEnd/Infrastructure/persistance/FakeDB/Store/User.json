@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "ff",
+    "lastName": "Yilma",
+    "fullName": "ff Yilma",
+    "email": "debeY@g.com",
+    "password": "debey",
+    "id": 2
+  },
+  {
+    "firstName": "ff",
+    "lastName": "Yilma",
+    "fullName": "ff Yilma",
+    "email": "debseY@g.com",
+    "password": "debey",
+    "id": 3
+  },
+
+
+
+
+  {
+    "firstName": "elias",
+    "lastName": "melks",
+    "fullName": "elias melks",
+    "email": "elias@g.com",
+    "password": "$2b$10$mumS2wwlFnM77w0CPf6nz.3gC9g62pmKOERAaiPRm0XPDYkJWugS2",
+    "id": 4
+  },
+
+
+  
+  {
+    "firstName": "eldias",
+    "lastName": "melks",
+    "fullName": "eldias melks",
+    "email": "elicas@g.com",
+    "password": "$2b$10$r/3icZ95cjiWifMS5xoZ3e9PkcScPWIoXLY/05MTXkYKWKkFLkMoq",
+    "id": 5
+  },
+  {
+    "firstName": "tsegalem",
+    "lastName": "gedefaw",
+    "fullName": "tsegalem gedefaw",
+    "email": "tsega@g.com",
+    "password": "$2b$10$gzy.4KVXOD9AIsaLLx07TuSOEjdUEaOEi3qXwlDkN4KIUxL4jBdVy",
+    "id": 6
+  },
+  {
+    "firstName": "birhanu",
+    "lastName": "dererei",
+    "fullName": "birhanu dererei",
+    "email": "bere@g.com",
+    "password": "$2b$10$p1gO4PcWWRL3ngYx967kpOy4Vc2wV6xx7REmq/s9oJJ3fhgIFNiii",
+    "id": 7
+  },
+  {
+    "firstName": "birhanu",
+    "lastName": "dererei",
+    "fullName": "birhanu dererei",
+    "email": "besre@g.com",
+    "password": "$2b$10$ECClNK/muVhT0Ja80s0WCOu132h2VEpRRV1pqKrKU1YMaQqHoGRsi",
+    "id": 8
+  }
+]

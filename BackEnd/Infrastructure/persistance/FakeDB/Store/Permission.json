@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "userId": 0,
+    "roleId": 2
+  },
+  {
+    "id": 2,
+    "userId": 4,
+    "roleId": 2
+  },
+  {
+    "id": 9,
+    "userId": 4,
+    "roleId": 1
+  },
+
+  {
+    "id": 3,
+    "userId": 2,
+    "roleId": 3
+  },
+  {
+    "id": 3,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 4,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 6,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 7,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 8,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 9,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 10,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 11,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 12,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 13,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 14,
+    "userId": 5,
+    "roleId": 19
+  },
+  {
+    "id": 15,
+    "userId": 6,
+    "roleId": 20
+  },
+  {
+    "id": 16,
+    "userId": 6,
+    "roleId": 21
+  }
+]
